@@ -1,6 +1,5 @@
  <center><h2> Assignments </h2></center>
 
- <b><h2>Description : </h2></b>
 
 <b><h2>How to Setup Local Machine</h2></b>
 <p>To setup your local machine you need to install some softwares. i will tell you don't worry about that ❗.  just follow the below steps ⤵️ to sucessfully install and run the Assignment Repo on your local Machine. </p>
