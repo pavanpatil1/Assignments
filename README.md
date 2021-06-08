@@ -1,9 +1,9 @@
  <center><h2> Assignments </h2></center>
 
- <b><h4>Description : </h4></b>
+ <b><h2>Description : </h2></b>
 
-<b><h4>How to Setup Local Machine</h4></b>
-<p>To setup your local machine you need to install some software. i will tell you </p>
+<b><h2>How to Setup Local Machine</h2></b>
+<p>To setup your local machine you need to install some softwares. i will tell you don't worry about that ❗.  just follow the below steps ⤵️ to sucessfully install and run the Assignment Repo on your local Machine. </p>
 
 <ul>
 <li>Composer
@@ -12,7 +12,8 @@
 <li>Selenium jar file</li>
 <li>Web Driver</li>
 </ul>
-<br /><br />
+<br /> 
+<b> Follow this below steps to setup your Machine ⬇️ : <b>
 
 1. First check whether composer is install or not in your machine open your command line and type command <code>composer --version </code>
 
@@ -26,8 +27,8 @@
 ![image](https://user-images.githubusercontent.com/44057535/121112752-7a400980-c82e-11eb-8576-681374555779.png)
 
 4.After installation you can verify that with <code>composer --version </code> this command.
-
-5. After sucessful installation of composer we need to install <b>Codeception</b> in your local machine. As we know codeception is an testing framework of PHP application. so we need to install that. so for that simply put this command on CMD <br > <code>composer require "codeception/codeception" --dev</code>. &nbsp;&nbsp; See below image you will get an idea about it.
+ 
+5. After sucessful installation of composer we need to install <b>Codeception</b> in your local machine. As we know codeception is an testing framework for PHP application. so we need to install that. so for that simply put this command on CMD <br > <code>composer require "codeception/codeception" --dev</code>. &nbsp;&nbsp; See below image you will get an idea about it.
 
 ![install_codeception_via_composer](https://user-images.githubusercontent.com/44057535/121113645-056dcf00-c830-11eb-880e-c7ee42f1af2c.png)
 
