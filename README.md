@@ -37,8 +37,9 @@ this will sucessfully install codeception in your local machine. After that we n
 
 ![create_codecept_project](https://user-images.githubusercontent.com/44057535/121114203-ee7bac80-c830-11eb-80e7-8da229157b65.png)
 
-this will create one folder tests folder. see below image.
-
+this will create one folder tests folder. see below image. 
+<br >
+ 
 ![after_build_folder](https://user-images.githubusercontent.com/44057535/121114291-14a14c80-c831-11eb-9ab4-3ef4e32dd419.png)
 
 7. After that we need to install Selenium jar file and Web driver. so for that go to https://www.selenium.dev/downloads/ see below image you will get an idea how we can download.
@@ -53,7 +54,7 @@ So Finaly your folder looks like this
 
 ![image](https://user-images.githubusercontent.com/44057535/121116684-8f1f9b80-c834-11eb-9a14-7c1188688305.png)
 
-<h5>Setup Assignment Repo on Local ⭐<h5>
+<h3>Setup Assignment Repo on Local ⭐<h3>
 so your local machine setup sucessfully for codeception. To setup this Assignments repo on your local machine you can clone this just by writing command in your git <code> git clone https://github.com/pavanpatil1/Assignments.git </code> or else you can directly download zip. After downloading of project you will able to see one <code>images</code> folder all the images in this image folder put that all images in <code> _data </code> Folder of tests directory. all Automation files in root directory copy that all files except <code>acceptance.suite.yml</code>. Put that all files in <code>acceptance</code> folder. So finally your Folders looks like this....
 
  ![image](https://user-images.githubusercontent.com/44057535/121117618-0d307200-c836-11eb-9c61-e57298cc9549.png)
@@ -62,7 +63,7 @@ so your local machine setup sucessfully for codeception. To setup this Assignmen
 
  your Machine setup sucessfully 🙌. 
 
- <b><h4>How to Run it on Local Machine 🌟</h4></b>
+ <b><h3>How to Run it on Local Machine 🌟</h3></b>
 
   In this we are goining to see how you run this files on your local enviornment. Open command line from your assignment folder. First we need to start the Selenium and web driver. without them we cannot run our files. So to start Selenium open CMD and type <code>java -jar selenium-server-standalone-3.12.0.jar</code> this will start your selenium-server on port 4444 by default you can change port also by writing in command. 
   
